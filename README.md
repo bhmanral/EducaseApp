@@ -57,7 +57,12 @@ Some of the issues identified during testing include:
 
 |                           SCREENSHOTS                               |
 | ------------------------------------------------------------------- |
-
+<p float="left">
+  <img src="images/Educase App.jpeg" width="350" gap="20px"/>
+  <tab>&nbsp;&nbsp;
+  <img src="images/Login Page.jpeg" width="200" height="360"/> 
+</p>
+<br><br>
 
 ## Disclaimer
 This project was created for learning, practice, and assessment purposes. All trademarks, logos, and application names belong to their respective owners.
